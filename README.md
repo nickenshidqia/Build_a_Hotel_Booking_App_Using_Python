@@ -6,7 +6,7 @@
 The Hotel Booking App is a comprehensive reservation system built using Python, employing Object-Oriented Programming (OOP) principles. This application enables users to seamlessly book hotel rooms by entering the hotel ID and their card information.
 
 **Challenges :**  
-Build Build a Hotel Booking App Using Python in Object-Oriented Programming Style.
+Build a Hotel Booking App Using Python in Object-Oriented Programming Style.
 
 ## Project Goal
 
